@@ -51,7 +51,7 @@ public class QuestionFive {
 			System.out.println(a);	
 		}
 		
-			
+	// here exception is thrown.. dont know why...		
 		
 		System.out.print("After removing the every second value on two is ::");
 		for (String a: two)
